@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Is0PsAGC6wMPQ/olLiDwsbiopVKDMglgn/ptFdTgawguoKbPzL4b4ZCFd6drqx7Z2/tOviOEZhFfbC/qjfSPqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\PL-3 Projecttt\\PL-3 Projecttt.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

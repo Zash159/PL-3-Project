@@ -1,0 +1,29 @@
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\PL-3 Projecttt.exe
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\PL-3 Projecttt.deps.json
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\PL-3 Projecttt.runtimeconfig.json
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\PL-3 Projecttt.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\PL-3 Projecttt.pdb
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\user\source\repos\PL-3 Projecttt\obj\Debug\net8.0\PL-3 Projecttt.fsproj.AssemblyReference.cache
+C:\Users\user\source\repos\PL-3 Projecttt\obj\Debug\net8.0\PL-3 Projecttt.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\PL-3 Projecttt\obj\Debug\net8.0\PL-3 Projecttt.AssemblyInfo.fs
+C:\Users\user\source\repos\PL-3 Projecttt\obj\Debug\net8.0\PL-3 Projecttt.fsproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PL-3 Projecttt\obj\Debug\net8.0\PL-3 Pro.8330F5AC.Up2Date
+C:\Users\user\source\repos\PL-3 Projecttt\obj\Debug\net8.0\PL-3 Projecttt.dll
+C:\Users\user\source\repos\PL-3 Projecttt\obj\Debug\net8.0\refint\PL-3 Projecttt.dll
+C:\Users\user\source\repos\PL-3 Projecttt\obj\Debug\net8.0\PL-3 Projecttt.pdb
+C:\Users\user\source\repos\PL-3 Projecttt\obj\Debug\net8.0\PL-3 Projecttt.genruntimeconfig.cache
+C:\Users\user\source\repos\PL-3 Projecttt\obj\Debug\net8.0\ref\PL-3 Projecttt.dll
